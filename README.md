@@ -27,6 +27,7 @@ This repository is for:
     ├── README.md
     ├── manifest.json
     └── *.js
+```
 
 ## To apply workflow to project
 
